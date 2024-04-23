@@ -9,4 +9,3 @@ I'm a prefinal year student at National Institute of Technology Delhi.
 ---
 [![](https://visitcount.itsvg.in/api?id=kc-m13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/kc-m13/kc-m13/blob/output/github-contribution-grid-snake.gif)
