@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a prefinal year student at National Institute of Technology Delhi.
+A passionate Orator, Literary aficionado and a prefinal year student at NIT Delhi ;)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kc-m13&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
